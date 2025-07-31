@@ -42,7 +42,7 @@ const LoginPage = () => {
         <div className="auth-header">
           <div className="auth-logo">
             <MessageCircle size={32} />
-            <h1>Talk-A-Tive</h1>
+            <h1>Talk-a-tive</h1>
           </div>
           <p className="auth-subtitle">
             Welcome back! Please sign in to your account.
